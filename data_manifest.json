@@ -1,0 +1,5 @@
+[
+    {"fname":"semstyle_results_and_baselines.json", "desc":"Results for SemStyle on all 4000 test images, and a collection of baselines."},
+    {"fname":"semstyle_results.json", "desc":"Results for SemStyle on all 4000 test images."}
+]
+
